@@ -1,11 +1,15 @@
 {
   "name": "my-simple-pass-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple tool to generate simple passwords",
   "main": "./bin/index.js",
   "preferGlobal": true,
   "scripts": {
+    "start": "./bin/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "mysimplepassgenerator": "./bin/index.js"
   },
   "keywords": [
     "dinopass",
