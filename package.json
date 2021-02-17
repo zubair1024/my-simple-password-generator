@@ -15,5 +15,9 @@
   "license": "ISC",
   "dependencies": {
     "dinopass-node": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zubair1024/my-simple-password-generator.git"
   }
 }
