@@ -8,7 +8,8 @@
 A simple tool to leverage and use `dinopass-node`
 
 ```shell
-npx my-simple-pass-generator
+npx my-simple-pass-generator 2 simple
+# output [ 'wildspy14', 'dampmonth13' ]
 ```
 
 ## Author
